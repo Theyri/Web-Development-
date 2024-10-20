@@ -1,0 +1,35 @@
+body {
+ background:skyblue;	
+}
+
+.main {
+	display:grid;
+		grid-template-columns: 1fr 1fr 1fr  1fr;	
+}
+div {
+	height:20px ;
+	border :1px solid black ;
+}
+.div1 {
+	background-color:#b6c906;
+}
+.div2{
+	background-color: #b6c906;
+}
+
+.div3 {
+	background-color: #b6c906;
+}
+
+.div4 {
+	background-color:#b6c906;
+}
+
+.div5 {
+	background-color:#b6c906;
+}
+
+.div6 {
+
+	background-color:#b6c906
+}
